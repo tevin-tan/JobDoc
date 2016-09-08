@@ -1,2 +1,2 @@
 # workjob
-[与工作相关的代码](/test.md "test")
+[markdwon使用方法](/test.md "test")
