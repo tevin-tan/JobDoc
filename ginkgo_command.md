@@ -1,24 +1,20 @@
 
 # ginkgo  #
 - A Golang BDD Testing Framwork
-
-- [获取方式](#获取方式#)
-
-* [1.基本框架设计](#1)
-
-	* [1.1图片](#获取)
-	
-	* [1.2换行](#1.2)
-	
-	* [1.3强调](#1.3)
-
+* [基本框架设计](#1)	
+	* [获取方式](#获取)
+	* [生成测试套](#生成测试套件)
+	* [添加测试用例](#添加测试用例)
+	* [执行测试](#执行测试)
+* [构建你的规格](#2)
+	* 
 
 <h2 id="获取">1. 获取方式:</h2>
 	$ go get github.com/onsi/ginkgo/ginkgo
 	$ go get github.com/onsi/gomega
 	       
-2. 生成测试套件 
---------------------
+<h2 id="生成测试套件">2. 生成测试套件:</h2>
+
 	ginkgo bootstrap
 	简单测试： ginkgo / go test
 	
@@ -39,8 +35,7 @@ This will generate a file named books_suite_test.go containing:
 	}
 
 
-
-## 3.添加测试用例 ##
+<h2 id="添加测试用例">3. 添加测试用例:</h2>
  
 	$ ginkgo generate book
 
@@ -60,8 +55,7 @@ This will generate a file named **book_test.go** containing:
 	})
 
 
-
-4. 执行测试
+<h2 id="执行测试">4. 执行测试:</h2>
 - 
 1. 	ginkgo / go test
 1. 	ginkgo -v 
@@ -89,4 +83,5 @@ This will generate a file named **book_test.go** containing:
 	ok      books   0.019s
 
 
-构建你的规格： Structuring Your Specs
+<h1 id="2">构建你的规格:</h1>
+ Structuring Your Specs
