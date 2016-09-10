@@ -1,6 +1,6 @@
 
 ![alt text](/icon/ginkgo.png "Title")
-# ginkgo  #
+
 A Golang BDD Testing Framwork
 
 * [基本框架设计](#1)	
