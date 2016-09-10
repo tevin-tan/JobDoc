@@ -1,8 +1,6 @@
 
 ![alt text](/icon/ginkgo.png "Title")
 
-A Golang BDD Testing Framwork
-
 * [基本框架设计](#1)	
 	* [获取方式](#获取)
 	* [生成测试套](#生成测试套件)
