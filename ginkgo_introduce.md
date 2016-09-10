@@ -1,5 +1,5 @@
 
-![alt text](./JobDoc/icon/ginkgo.png "Title")
+![alt text](/JobDoc/icon/ginkgo.png "Title")
 # ginkgo  #
 A Golang BDD Testing Framwork
 
