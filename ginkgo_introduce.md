@@ -5,12 +5,12 @@ A Golang BDD Testing Framwork
 
 * [基本框架设计](#1)	
 	* [获取方式](#获取)
-	* [生成测试套](#生成测试套件)
-	* [添加测试用例](#添加测试用例)
+	* [生成测试套](#生成测试套件)						
+	* [添加测试用例](#添加测试用例)		
 	* [执行测试](#执行测试)
 * [构建你的规格](#2)
 	* 
-
+									
 <h2 id="获取">1. 获取方式:</h2>
 	$ go get github.com/onsi/ginkgo/ginkgo
 	$ go get github.com/onsi/gomega
