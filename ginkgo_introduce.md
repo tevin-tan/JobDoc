@@ -1,7 +1,5 @@
 
-![alt text](D:\JobDoc\icon\ginkgo.png "Title")
-# ginkgo  #
-A Golang BDD Testing Framwork
+![alt text](/icon/ginkgo.png "Title")
 
 * [基本框架设计](#1)	
 	* [获取方式](#获取)
