@@ -1,1 +1,1 @@
-[test]("*.xmind")
+[test]("GoStudy.pptx")
